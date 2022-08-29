@@ -1,0 +1,10 @@
+.labels{
+    padding: 0px;
+    margin: 0px;
+}
+.inputs{
+    padding: 0px;
+}
+.error{
+    color: red;
+}
